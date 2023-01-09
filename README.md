@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi, I program with C# language.
+## Hi, I program with C# language. I am learning how to program in Java. :)
